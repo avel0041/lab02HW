@@ -1,7 +1,7 @@
 #include <iostream>
-using namespace std
+
 void main{
     string name;
-    cin >> name;
-    cout << "Hello world from" << name;
+    std::cin >> name;
+    std::cout << "Hello world from" << name; // Коментарий a
 }
